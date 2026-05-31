@@ -26,8 +26,9 @@ npm run dev
 ```
 3. Open the site in your browser (usually at `http://localhost:3000` or as printed by the dev server).
 
-## Replace the preview image
-Save your screenshot (the uploaded image) as `assets/preview.png` so it appears above in the README. If you prefer a different filename, update the image path in this README accordingly.
+## Preview image
+<img width="1470" height="839" alt="Screenshot 2026-06-01 at 4 42 25 AM" src="https://github.com/user-attachments/assets/d38ee6aa-fa89-4546-bfb1-37bc12672d6f" />
+
 
 ## Using real textures
 To replace the placeholder procedural textures with real equirectangular images:

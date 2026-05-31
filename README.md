@@ -13,6 +13,13 @@ Live demo: https://solar-system-xi-ruddy.vercel.app/
 - Side panel UI to select destinations and a right-side details panel with scientific data
 - Placeholder texture sampling for Earth, Jupiter, and Saturn with cloud overlays (replaceable with real textures)
 
+
+## Preview image:
+
+<img width="1470" height="839" alt="Screenshot 2026-06-01 at 4 42 25 AM" src="https://github.com/user-attachments/assets/d38ee6aa-fa89-4546-bfb1-37bc12672d6f" />
+
+
+
 ## Run locally
 Requirements: Node.js >= 16
 
@@ -26,8 +33,6 @@ npm run dev
 ```
 3. Open the site in your browser (usually at `http://localhost:3000` or as printed by the dev server).
 
-## Preview image
-<img width="1470" height="839" alt="Screenshot 2026-06-01 at 4 42 25 AM" src="https://github.com/user-attachments/assets/d38ee6aa-fa89-4546-bfb1-37bc12672d6f" />
 
 
 ## Using real textures

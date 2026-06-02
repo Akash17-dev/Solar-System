@@ -1,6 +1,5 @@
 # Solar System — Helios Tour
 
-![Preview](assets/preview.png)
 
 A small WebGL + React demo that renders an immersive solar system tour. The scene uses a shader-based renderer for volumetric lighting and procedural planet surfaces, plus placeholder equirectangular textures and cloud overlays for higher realism.
 
